@@ -5,7 +5,7 @@
 - The stratification of the extracted features is done using a convolutional neural network classifier.
 - The system will be able to identify any early melanoma symptoms, so that the user can immediately address the issue before the cancer cells multiply rapidly.
 
-
+### This project is done for the course **Digital Image Processing - SWE1010**, under the supervision of Dr. S.Geetha Ma'am.
 
 # Repository Content
 
@@ -17,13 +17,17 @@ The repository includes the following content:
 * 20MIS1034_1118_1176_SWE1018_Project.ipynb
   * The executable code file in python language.
 
+## optimal_weight:
+
+* benign-vs-malignant_64_rmsprop_0.373.h5 - the most optimal weight acquired during the training
+
 ## Dataset download links:
 
 * ISIC_skincancer_dataset_links.txtv
   * The download link to the necessary datasets in ZIP format.
-  * test.zip - 5.14 GB
-  * train.zip - 5.34 GB
-  * valid.zip - 824 MB
+  * test.zip - 5.14 GB (https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/test.zip)
+  * train.zip - 5.34 GB (https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/train.zip)
+  * valid.zip - 824 MB (https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/valid.zip)
 
 ## Project_Report:
 
