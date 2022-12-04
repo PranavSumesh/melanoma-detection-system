@@ -23,7 +23,7 @@ The repository includes the following content:
 
 ## Dataset download links:
 
-* ISIC_skincancer_dataset_links.txtv
+* ISIC_skincancer_dataset_links.txt
   * The download link to the necessary datasets in ZIP format.
   * test.zip - 5.14 GB (https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/test.zip)
   * train.zip - 5.34 GB (https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/train.zip)
