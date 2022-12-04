@@ -6,5 +6,6 @@ The stratification of the extracted features is done using a convolutional neura
 The system will be able to identify any early melanoma symptoms, so that the user can immediately address the issue before the cancer cells multiply rapidly.
 
 
-The repository includes the following content:
+# Repository Content
 
+The repository includes the following content:
